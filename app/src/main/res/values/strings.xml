@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Dharwad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="attraction">Places to see </string>
+    <string name="food">Local Savories</string>
+    <string name="education">Education Center</string>
+    <string name="fashion">Fashion And Shopping</string>
+
+    <string name="attraction_01_title">Chandra Maulishwara Temple</string>
+    <string name="attraction_01_adress_area">Near  Unakal Lake</string>
+    <string name="attraction_01_adress_desc">Temple by the lake</string>
+    <string name="attraction_01_type">Architecural Monumnet</string>
+
+    <string name="attraction_02_title">AnniGeri temple</string>
+    <string name="attraction_02_type">Architecural Monumnet</string>
+
+
+    <string name="attraction_03_title">Nrupatunga Betta</string>
+    <string name="attraction_03_adress_area">Near Hubli</string>
+    <string name="attraction_03_adress_desc">Scenic view from hill</string>
+    <string name="attraction_03_type">Hill side attraction</string>
+
+    <string name="attraction_04_title">ISCON</string>
+    <string name="attraction_04_type">Community Center and Temple</string>
+
+    <string name="attraction_05_title">Agadi Thota</string>
+    <string name="attraction_05_type">Serene park for meditation and entertainment.</string>
+
+    <string name="attraction_06_title">Badami Cave Temple</string>
+    <string name="attraction_06_address_area">Badami</string>
+    <string name="attraction_06_adress_desc">Temple in Cave and by the waterfalls</string>
+    <string name="attraction_06_type">Architecural Monumnet</string>
+
+    <string name="attraction_07_title">Glass House</string>
+    <string name="attraction_07_adress_area">Hubli</string>
+    <string name="attraction_07_address_desc">Glass House</string>
+    <string name="attraction_07_type">Children\'s place</string>
+
+    <string name="attraction_08_title">Godchinmalki Falls</string>
+    <string name="attraction_08_adress_area">Near  Belgaum</string>
+    <string name="attraction_08_adress_desc">waterfalls by the woods</string>
+    <string name="attraction_08_type">Scenic place</string>
+
+    <string name="attraction_09_title">Someshwar Temple</string>
+    <string name="attraction_09_adress_area">Dhawaligiri</string>
+    <string name="attraction_09_adress_desc">Temple by the river origin</string>
+    <string name="attraction_09_type">Hindu Religious place</string>
+
+    <string name="attraction_10_type">Beach</string>
+    <string name="attraction_10_adress_desc">Beach that looks like symbol om</string>
+    <string name="attraction_10_address_area">Gokarna</string>
+    <string name="attraction_10_title">Om Beach</string>
+
+    <string name="attraction_11_title">Swadi</string>
+    <string name="attraction_11_address_area">Sonda</string>
+    <string name="attraction_11_address_desc">Temple and Ashram</string>
+    <string name="attraction_11_type">Serene place for meditation</string>
+    <string name="food_01_title">Jolada rotti bale ele oota</string>
+    <string name="food_01_type">Full Meals of the place server in banana leaf</string>
+    <string name="food_02_title">Aulakki</string>
+    <string name="food_02_type">snacks</string>
+    <string name="food_03_title">Dharwad Pedha</string>
+    <string name="food_03_type">Famous Dessert</string>
+    <string name="food_04_title">Engali Palya</string>
+    <string name="food_04_type">Stuffed Brinjol Curry</string>
+    <string name="food_05_title">Girmit</string>
+    <string name="food_05_type">Street Food</string>
+    <string name="food_06_title">Kadubu</string>
+    <string name="food_06_type">Festive Dessert</string>
+    <string name="food_07_title">Kidabale</string>
+    <string name="food_07_type">Spicy snacks</string>
+    <string name="food_08_title">Palade</string>
+    <string name="food_08_type">Curry made with butter milk</string>
+    <string name="food_09_title">Ravaladu</string>
+    <string name="food_09_type">Sweet dessert</string>
+    <string name="education_01_title">SDM Engineering College</string>
+    <string name="education_01_type">Engineering college with beautiful campus</string>
+    <string name="education_02_title">University Of Agriculture Science</string>
+    <string name="education_02_type">University Of Agriculture and Horticulture Science</string>
+    <string name="education_03_title">SDM Dental College</string>
+    <string name="education_03_type">College of Dental Science</string>
+    <string name="education_04_title">BVB Engineering College</string>
+    <string name="education_04_type">KLE Societies Engineering College</string>
+    <string name="education_05_title">IIT Dharwad</string>
+    <string name="education_05_type">Indian Institute Of Science Dharwad</string>
+    <string name="education_06_title">Karnataka University</string>
+    <string name="education_06_type">Karnata University Head quarters</string>
+    <string name="education_07_title">KCD College</string>
+    <string name="education_07_type">College of Arts, Science And Commerce</string>
+    <string name="education_08_title">SDM Medical College</string>
+    <string name="education_08_type">College of Medical Science</string>
+    <string name="fashion_01_title">Dharwad Saree</string>
+    <string name="fashion_01_type">Locally woven cotton and silk sarees</string>
+    <string name="fashion_02_title">Gadag Saree</string>
+    <string name="fashion_02_type">Woven Sarees From Gadag</string>
+    <string name="fashion_03_title">Kasooti Saree</string>
+    <string name="fashion_03_type">Sarees With Hand Embroidory</string>
+    <string name="fashion_04_title">Parkar Polka</string>
+    <string name="fashion_04_type">Local Dress for young Girls</string>
+    <string name="fashion_05_title">Nauvari Saree</string>
+    <string name="fashion_05_type">Local Dress For Women</string>
+    <string name="fashion_06_title">Moggina Jade</string>
+    <string name="fashion_06_type">Jasmine flower hair braid</string>
+    <string name="fashion_07_title">Langa Davali</string>
+    <string name="fashion_07_type">Local Dress for Young Adult women</string>
+    <string name="fashion_08_title">Ilakal Saree</string>
+    <string name="fashion_08_type">Sarees from Ilakal</string>
+    <string name="fashion_09_title">Dhoti</string>
+    <string name="fashion_09_type">Summer Dress for Men</string>
+    <string name="fashion_10_title">Dhotra</string>
+    <string name="fashion_10_type">Festive wear for Men</string>
+    <string name="fashion_11_title">Lungi</string>
+    <string name="fashion_11_type">Can be  Casual or festive wear for men</string>
+
+
+</resources>

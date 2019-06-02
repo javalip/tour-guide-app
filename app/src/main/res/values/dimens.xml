@@ -1,0 +1,11 @@
+<resources>
+    <!-- Height of each list item -->
+
+    <dimen name="layout_height_top">120dp</dimen>
+    <dimen name="layout_height_inner">100dp</dimen>
+    <dimen name="layout_width_neutral">0dp</dimen>
+    <dimen name="padding_left15">15dp</dimen>
+    <dimen name="padding_top8">8dp</dimen>
+    <dimen name="padding_right8">8dp</dimen>
+    <dimen name="padding_bottom8">8dp</dimen>
+</resources>
